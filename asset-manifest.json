@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Space-City-Debate-Camp/static/css/main.b9bcedd4.css",
-    "main.js": "/Space-City-Debate-Camp/static/js/main.97ed257f.js",
+    "main.js": "/Space-City-Debate-Camp/static/js/main.e1f94282.js",
     "static/media/Ivana-cajina2.png": "/Space-City-Debate-Camp/static/media/Ivana-cajina2.9db3157b6b8abba9ac7d.png",
     "static/media/nasa2.png": "/Space-City-Debate-Camp/static/media/nasa2.673d48d89fba5eccc9f5.png",
     "static/media/daniel-olah-dFA5XycbhoQ-unsplash.jpg": "/Space-City-Debate-Camp/static/media/daniel-olah-dFA5XycbhoQ-unsplash.c7cd8e06aa22b37a1b64.jpg",
@@ -11,10 +11,10 @@
     "static/media/alex.Moon.png": "/Space-City-Debate-Camp/static/media/alex.Moon.a70f45c7748c3b10fd21.png",
     "index.html": "/Space-City-Debate-Camp/index.html",
     "main.b9bcedd4.css.map": "/Space-City-Debate-Camp/static/css/main.b9bcedd4.css.map",
-    "main.97ed257f.js.map": "/Space-City-Debate-Camp/static/js/main.97ed257f.js.map"
+    "main.e1f94282.js.map": "/Space-City-Debate-Camp/static/js/main.e1f94282.js.map"
   },
   "entrypoints": [
     "static/css/main.b9bcedd4.css",
-    "static/js/main.97ed257f.js"
+    "static/js/main.e1f94282.js"
   ]
 }
