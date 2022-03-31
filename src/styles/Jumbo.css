@@ -1,0 +1,56 @@
+
+.jumbo{
+    height: 100vh;
+    background-image: url(../images/background10.png);
+    /* background-repeat: no-repeat; */
+    /* background-attachment: fixed; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* background-color: rgb(211, 204, 195); */
+}
+.tlayer, .blayer{
+    font-size: 80px;
+    color:rgb(84, 170, 204);
+    letter-spacing: 28px;
+}
+
+.tlayer{
+    letter-spacing: 28px;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+.blayer{
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 45px;
+
+}
+.mlayer{
+    font-size: 125px;
+    color:aqua;
+    text-shadow: 0 0 10px rgba(40, 250, 248, 0.8),
+    0 0 20px rgba(40, 250, 248, 0.8), 0 0 35px rgba(40, 250, 248, 0.8);
+    height: 155px;
+    /* font-family: 'Monoton', cursive; */
+    font-family: 'Zen Tokyo Zoo', cursive;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dates{
+    color: white;
+}
+
+.footing{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.title{
+    margin-bottom: 50px;
+}

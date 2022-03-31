@@ -1,0 +1,62 @@
+.miscPage{
+    background: url(../images/background10.png);
+    height: 100vh;
+}
+
+.different{
+    /* Photo by <a href="https://unsplash.com/@von_co?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ivana Cajina</a> on <a href="https://unsplash.com/wallpapers/nature/space?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+   */
+   background: url(../images/daniel-olah-dFA5XycbhoQ-unsplash.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.difCard{
+    opacity: .5;
+    transition: ease-in-out .5s;
+}
+.difCard:hover{
+    opacity: 1;
+    transition: ease-in-out .5s;
+}
+
+.abtEvents{
+    /* Photo by <a href="https://unsplash.com/@alex_andrews?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Andrews</a> on <a href="https://unsplash.com/wallpapers/nature/space?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+   Photo by <a href="https://unsplash.com/@danesduet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniel Olah</a> on <a href="https://unsplash.com/wallpapers/nature/space?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+   Photo by <a href="https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NASA</a> on <a href="https://unsplash.com/wallpapers/nature/space?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+    */
+    background: url(../images/nasa2.png);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header{
+    display: flex;
+    flex-direction:row;
+    /* width: 36px; */
+    font-size: 36px;
+}
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 40px;
+}
+.lItem:hover{
+    cursor: pointer;
+}
+.lItem2:hover{
+    cursor: pointer;
+}

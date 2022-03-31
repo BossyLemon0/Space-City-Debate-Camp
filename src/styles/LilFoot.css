@@ -1,0 +1,19 @@
+.lilFoot{
+    height: 13vh;
+    background: #020408;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icons{
+    margin: 0 70px;
+}
+
+.icons:hover{
+    cursor: pointer;
+}
+
+.react-icons{
+    size: 40px;
+}

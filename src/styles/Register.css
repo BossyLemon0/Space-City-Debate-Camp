@@ -1,0 +1,29 @@
+.register{
+    height: 100vh;
+    background: url(../images/signup_misc_3.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header{
+    font-weight: bolder;
+    padding-left: 20px;
+    padding-top: 12px;
+}
+
+
+.formCard{
+    opacity: .5;
+    transition: ease-in-out .5s;
+}
+
+.formCard:hover{
+    opacity: 1;
+    transition: ease-in-out .5s;
+}
+
+.groups{
+    display: flex;
+}
+

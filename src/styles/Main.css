@@ -1,0 +1,23 @@
+.main{
+    height: 93vh;
+    background-color: rgb(235, 233, 232);
+}
+
+.introText{
+    font-size: 30px;
+    font-family: 'Roboto Slab', serif;
+    margin: 0px 40px 149px 40px;
+    padding-top: 59px;
+
+}
+
+.cards{
+    /* height: 80vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardL{
+    margin-right: 90px;
+}
