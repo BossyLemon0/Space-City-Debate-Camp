@@ -17,8 +17,8 @@ export default function Different(props){
                       noValidate
                       autoComplete="off">
                         <div>
-                        Space City Camp(SCC) aims to expand equity and opportunity amongst underprivileged debaters from hubmle beginnings.
-                        In order for the start to truly align, access to resources, coaching, and experience are vital for invigorating
+                        Space City Camp(SCC) aims to expand equity and opportunity amongst underprivileged debaters from humble beginnings.
+                        In order for the stars to truly align, access to resources, coaching, and experience are vital for invigorating
                         new legacies of success amongst marganilized communities. At SCC you can expect the best there is to offer, competing
                         with traditionally well known camps who have curated a rich pipeline between decorated alumni, coaches and educators, 
                         to young debaters. Here at SCC, we work to provide that same environment at no cost to any and all who wish to begin

@@ -20,7 +20,7 @@ function App() {
   <div>
     <Navigation />
     <Routes>
-      <Route exact path={process.env.PUBLIC_URL + '/'} element={ <HomePage /> } />
+      <Route exact path={'/Space-City-Debate-Camp'} element={ <HomePage /> } />
       <Route exact path="/About" element={<About />} />
       <Route exact path="/Unique" element={<Unique />} />
       <Route exact path="/Contact" element={<Contact />} />

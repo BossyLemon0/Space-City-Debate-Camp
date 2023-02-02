@@ -23,7 +23,7 @@ const pages = ['About', 'Schedule', 'Contact', 'Register'];
 
 const Navigation = () => {
   const navigate = useNavigate();
-  const toHome = useCallback(()=> navigate(process.env.PUBLIC_URL + '/', {replace:true}),[navigate])
+  const toHome = useCallback(()=> navigate('/Space-City-Debate-Camp', {replace:true}),[navigate])
   const toSchedule = useCallback(()=> navigate('/Schedule', {replace:true}), [navigate]);
   // const toContact = useCallback(()=> navigate('/Contact', {replace:true}), [navigate]);
   const toRegister = useCallback(()=> navigate('/Register', {replace:true}), [navigate]);
